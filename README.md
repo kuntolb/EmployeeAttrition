@@ -1,4 +1,2 @@
 # EmployeeAttrition
-## EpmployeeAttrition
-### EmployeeAttrition
-#### EmployeeAttrition
+![image.png](images/HRTalent.png)
